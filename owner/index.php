@@ -38,4 +38,3 @@ session_start();
 
 
     <?php include_once "./footer.php"; ?>
-Write to THIRD BENCH
